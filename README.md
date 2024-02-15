@@ -1,7 +1,9 @@
 ### Oi, aqui é a Poli 👻
 
 - 🌱 Buscando melhorar minhas habilidades
+- 👾 Altualmente estou no último período do curso tecnico em informática  
 - 🤯 Desenvolvedora full-stack
+
 
 <div>
   <img height= '180em'src='https://github-readme-stats.vercel.app/api?username=poliana-dev&show_icons=true&theme=dracula'>

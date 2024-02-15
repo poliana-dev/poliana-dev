@@ -1,7 +1,7 @@
 ### Oi, aqui é a Poli 👻
 
 - 🌱 Buscando melhorar minhas habilidades
-- 👾 Altualmente estou no último período do curso tecnico em informática  
+- 👾 Atualmente estou no último período do curso técnico em informática  
 - 🤯 Desenvolvedora full-stack
 
 

@@ -5,11 +5,6 @@
 - 🤯 Desenvolvedora full-stack
 
 
-<div>
-  <img height= '180em'src='https://github-readme-stats.vercel.app/api?username=poliana-dev&show_icons=true&theme=rose_pine'>
-  <img height= '180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=poliana-dev&layout=compact&langs_count=16&theme=rose_pine'>
-</div>
-
 <div style="display:inline_block"><br/>
   <img align='center' height='40' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img align='center' height='40' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
